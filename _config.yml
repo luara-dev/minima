@@ -1,14 +1,18 @@
-title: Your awesome title
+title: teperando com verdade
 author:
-  name: GitHub User
-  email: your-email@domain.com
+  name: luara-dev
+  email: lucianapjj@gmail.com
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
-description: >
-  Write an awesome description for your new site here. You can edit this line
-  in _config.yml. It will appear in your document head meta (for Google search
-  results) and in your feed.xml site description.
+description: > 
+A palavra tempero vem do latim temperare e significa "misturar corretamente" E quando se trata de de culinaria os 
+temperos naturais, alem de dar um toque pra la de especial as preparacoes, ainda oferecem diversos beneficius a saùde.
+Os temperos naturais oferecem propriedades nutricionais, como vitaminas, minerais, antioxidantes
+e composto bioativos com possiveis propriedades terapêuticas.
+   As comidas feita com temperos naturais sao esseenciais pra saúde,
+   e ficam mais saborosa e oferem potencias beneficios a saude como 
+   
 
 # Build settings
 
